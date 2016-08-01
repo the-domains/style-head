@@ -1,0 +1,14 @@
+layout_spectrum: 0.03974411799572408
+typography_spectrum: 0.6471164501272142
+color:
+  brandStrength: 0.40396483102813363
+  lightness: 0.5981441719923168
+  saturation: 0.38192329788580537
+  rhythmicContrast: 0.042088731192052364
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Style Head
